@@ -1,0 +1,10 @@
+c:\hiram\hiramdb\bin\Debug\hiramdb.dacpac
+c:\hiram\hiramdb\bin\Debug\hiramdb.dll
+c:\hiram\hiramdb\bin\Debug\hiramdb.pdb
+c:\hiram\hiramdb\obj\Debug\hiramdb.sqlproj.AssemblyReference.cache
+c:\hiram\hiramdb\obj\Debug\Model.xml
+c:\hiram\hiramdb\obj\Debug\refactor.xml
+c:\hiram\hiramdb\obj\Debug\postdeploy.sql
+c:\hiram\hiramdb\obj\Debug\predeploy.sql
+c:\hiram\hiramdb\obj\Debug\hiramdb.dll
+c:\hiram\hiramdb\obj\Debug\hiramdb.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHxY2ABisJs8G3a7Ff5nbiDJNNsG8dZvv0UtKWJeCwOs7L7nxWJzghNqJpb6bcT/wkaS4zC9DmD6WRDx/DKjdQ==",
+  "success": true,
+  "projectFilePath": "c:\\hiram\\hiramdb\\hiramdb.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hiram\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\hiram\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

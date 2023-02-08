@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\hiram\\hiramdb\\hiramdb.sqlproj": {}
+  },
+  "projects": {
+    "c:\\hiram\\hiramdb\\hiramdb.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\hiram\\hiramdb\\hiramdb.sqlproj",
+        "projectName": "hiramdb",
+        "projectPath": "c:\\hiram\\hiramdb\\hiramdb.sqlproj",
+        "packagesPath": "C:\\Users\\hiram\\.nuget\\packages\\",
+        "outputPath": "c:\\hiram\\hiramdb\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\hiram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
