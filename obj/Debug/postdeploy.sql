@@ -1,4 +1,4 @@
--- This file contains SQL statements that will be executed after the build script.
+﻿-- This file contains SQL statements that will be executed after the build script.
 merge into settings as Target 
 using (values 
 	(1),  
@@ -28,3 +28,4 @@ values (id)
 -- delete rows that are in the target but not the source 
 when not matched by Source then 
 delete;
+GO
